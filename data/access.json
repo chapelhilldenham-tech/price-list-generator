@@ -1,0 +1,20 @@
+{
+ "research": {
+  "salt": "0bb8395f447e70407ce5355cd76a8abf",
+  "iter": 210000,
+  "hash": "2589658a4a6445bfc272c9a19d5605cde5b18d8e802b29fcdddb947533f787ed",
+  "changedAt": "2026-09-28T09:22:55+00:00"
+ },
+ "zanibal": {
+  "salt": "fd394cff660787ba64e6fed185608c5e",
+  "iter": 210000,
+  "hash": "d21691c1c7ccaaca0ea5445a4c3f68664ffe1f3401cf0c170656c8be0c090556",
+  "changedAt": "2026-09-28T09:22:55+00:00"
+ },
+ "excel": {
+  "alg": "SHA-512",
+  "salt": "JtuKcn5ZesWZtGYgZnh24g==",
+  "spin": 100000,
+  "hash": "5xlH4Dh/T+07uvuDnWKRpWq+5GOgVHWnGuoIsfqK1HOwybdEn5OOD+x7FtaazZgwHasupfWyyTNS79oOC3lPnA=="
+ }
+}
